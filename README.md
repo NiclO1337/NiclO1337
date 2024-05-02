@@ -7,16 +7,16 @@
 I'm a newly educated Junior Fullstack Software Developer, currently learning Predictive Analytics and AI. <br>I love learning new skills and to build new interesting and useful projects.
 
 - 🌱 **Currently learning**: That the world is much bigger and more complex than I previously knew.
-- 🔭 **Working on**: Finding a new home with a nice family where I can contribute as a junior dev
-- ⚡ **Fun fact**: I am a world class bug developer and an amateur bug fixer
+- 🔭 **Working on**: Finding a new home with a nice family where I can contribute as a junior dev.
+- ⚡ **Fun fact**: I am a world class bug developer and an amateur bug fixer.
 - 🌍 **Languages**:
-     - 🤓 **Human**: English and Swedish
+     - 🤓 **Human**: English and Swedish.
      - 🤖 **Computer**: <br>01001101 01100001 01101110 01111001 00100000 01101100 01100001 01101110 01100111 01110101 01100001 01100111 01100101 01110011 00101100 00100000 01110011 01100101 01100101 00100000 01100010 01100101 01101100 01101111 01110111 00101110 00100000 01001001 01110010 01101111 01101110 01101001 01100011 01100001 01101100 01101100 01111001 00100000 01101110 01101111 01110100 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 00111010 01010000
-     - 🦧 **Animal**: Cat and Bear
+     - 🦧 **Animal**: Cat and Bear.
 - 👨‍🦲 **Gender, pronouns and star sign**: CIS male, he/him, Leo ♌
 - 🤙 **Also answers to**: "Hey, you" and "Your royal highness" 🤴
 - 🛌 **Hobbies**: Bicycling 🚴 Gaming 🖥️ Yoga 🧘‍♂️ CrossFit 🏋️‍♂️ Napping 😴
-- ❤️ **Marital status**: Single and looking, so if you any know someone cool, send me her GitHub link!
+- ❤️ **Marital status**: Single
 
 ### My Stack 🧠
 
@@ -40,19 +40,9 @@ I'm a newly educated Junior Fullstack Software Developer, currently learning Pre
 
 
 
-
-
-
-
-
-
-
-
-
 ### Certs n stuff
 
 - [ ] Diploma - Fullstack software developer (July 2024) with specialisation Predictive Analytics and AI.
-
 
 
 
