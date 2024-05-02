@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-I'm a newly educated Junior Fullstack Software Developer, currently learning Predictive Analytics and AI. <br>I love learning new skills and to build new interesting projects.
+I'm a newly educated Junior Fullstack Software Developer, currently learning Predictive Analytics and AI. <br>I love learning new skills and to build new interesting and useful projects.
 
 - 🌱 **Currently learning**: Jupyter Noteboooks, Numpy, Pandas
 - 🔭 **Working on**: Finding a new home with a nice family where I can contribute as a junior dev
@@ -13,11 +13,11 @@ I'm a newly educated Junior Fullstack Software Developer, currently learning Pre
 - 🌍 **Languages**:
      - 🤓 **Human**: English and Swedish
      - 🤖 **Computer**: <br>01001101 01100001 01101110 01111001 00100000 01101100 01100001 01101110 01100111 01110101 01100001 01100111 01100101 01110011 00101100 00100000 01110011 01100101 01100101 00100000 01100010 01100101 01101100 01101111 01110111 00101110 00100000 01001001 01110010 01101111 01101110 01101001 01100011 01100001 01101100 01101100 01111001 00100000 01101110 01101111 01110100 00100000 01100010 01101001 01101110 01100001 01110010 01111001 00100000 00111010 01010000
-     - 🦧 **Animal**: **Cat** and **Bear**
-- ⚧️  **Gender and pronouns**: CIS male, he/him
+     - 🦧 **Animal**: Cat and Bear
+- ⚧️  **Gender, pronouns and star sign**: CIS male, he/him, Leo ♌
 - 🤙 **Also answers to**: "Hey, you" and "Your royal highness" 🤴
 - 🛌 **Hobbies**: Bicycling 🚴 Gaming 🖥️ Yoga 🧘‍♂️ CrossFit 🏋️‍♂️ Napping 😴
-- ❤️ **Marital status**: Single and looking, so if you any know someone good, send me her Github link!
+- ❤️ **Marital status**: Single and looking, so if you any know someone cool, send me her Github link!
 
 ## My Skills 🧠
 
