@@ -16,7 +16,7 @@ I'm a newly educated Junior Fullstack Software Developer, currently learning Pre
 - 👨‍🦲 **Gender, pronouns and star sign**: CIS male, he/him, Leo ♌
 - 🤙 **Also answers to**: "Hey, you" and "Your royal highness" 🤴
 - 🛌 **Hobbies**: Bicycling 🚴 Gaming 🖥️ Yoga 🧘‍♂️ CrossFit 🏋️‍♂️ Napping 😴
-- ❤️ **Marital status**: Single and looking 😍
+- ❤️ **Marital status**: Single and looking 👍
 
 ### My Stack 🧠
 
